@@ -1,5 +1,5 @@
 {
-  "name": "mageplaza/module-customer-approval",
+  "name": "warleyelias/module-customer-approval",
   "description": "Magento 2 Customer Approval Extension",
   "require": {
     "mageplaza/module-core": "^1.4.12"
