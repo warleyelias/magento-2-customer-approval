@@ -1,4 +1,4 @@
-<?php
+    <?php
 /**
  * Mageplaza
  *
@@ -60,6 +60,7 @@ class AttributeOptions extends AbstractSource
             self::PENDING => __('Pending'),
             self::APPROVED => __('Approved'),
             self::NOTAPPROVE => __('Not Approved'),
+            self::NEW_STATUS => __('New')
         ];
     }
 }
